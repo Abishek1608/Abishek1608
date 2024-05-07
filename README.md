@@ -19,7 +19,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; justify-content: space-evenly;> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-<img src="[https://nestjs.com/img/nest-og.png](https://miro.medium.com/v2/resize:fit:671/1*nZXfv_XJ6f3S-qjAATWutA.jpeg)" alt="Nestjs" width="60" height="50"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" alt="Nestjs" width="60" height="50"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 

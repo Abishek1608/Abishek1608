@@ -14,7 +14,7 @@
 - 📫 How to reach me **abishekkg1699@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align= "rigth" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abishek1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abishek1608" height="30" width="40" /></a>
 <a href="https://instagram.com/abishek__16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abishek__16" height="30" width="40" /></a>
